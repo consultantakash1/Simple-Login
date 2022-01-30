@@ -1,0 +1,65 @@
+* {
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body {
+	background:url(../img/bg.jfif);
+	background-size: cover;
+}
+
+.container {
+	width: 600px;
+	margin: 10% auto;
+	padding: 3px;	
+	
+}
+
+.container h1 {
+	margin: 0px 203px;
+	padding: 20px;
+	display: block;
+	color: white;
+
+}
+
+.login {
+    background-color: #ffffff5c;
+    padding: 20px;
+}
+
+.login img {
+	margin: 0px auto;
+    display: block;
+}
+
+
+.form-edit {
+	width: 50%;
+	height: 30px;
+	padding: 3px;
+	margin: 0px auto;
+	display: block;
+	margin-top: 8px;
+
+
+}
+
+.btn {
+	background: #4a7dbc;
+    color: white;
+    margin: 0px auto;
+    display: block;
+    padding: 8px 20px;
+    margin-top: 8px;
+    border: none;
+    box-shadow: 2px 3px 4px #04040457;
+}
+
+.link {
+	margin: 0px auto;
+	color: black;
+	display: block;
+	padding: 3px;
+}
